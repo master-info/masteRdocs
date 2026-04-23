@@ -5,113 +5,123 @@ oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaST
 
 ### Pacchetti $R$
 
-- [masteRagricolo](https://github.com/master-info/masteRdocs/blob/main/masteRagricolo/README.md)
+- [masteRagricolo](https://github.com/master-info/masteRdocs/tree/main/R/masteRagricolo)
     
-- [masteRapi](https://github.com/master-info/masteRdocs/blob/main/masteRapi/README.md)
+- [masteRapi](https://github.com/master-info/masteRdocs/tree/main/R/masteRapi)
     
-- [masteRappalti](https://github.com/master-info/masteRdocs/blob/main/masteRappalti/README.md)
+- [masteRappalti](https://github.com/master-info/masteRdocs/tree/main/R/masteRappalti)
     
-- [masteRaria](https://github.com/master-info/masteRdocs/blob/main/masteRaria/README.md)
+- [masteRaria](https://github.com/master-info/masteRdocs/tree/main/R/masteRaria)
     
-- [masteRbacini](https://github.com/master-info/masteRdocs/blob/main/masteRbacini/README.md)
+- [masteRbacini](https://github.com/master-info/masteRdocs/tree/main/R/masteRbacini)
     
-- [masteRblocca](https://github.com/master-info/masteRdocs/blob/main/masteRblocca/README.md)
+- [masteRblocca](https://github.com/master-info/masteRdocs/tree/main/R/masteRblocca)
     
-- [masteRcensus](https://github.com/master-info/masteRdocs/blob/main/masteRcensus/README.md)
+- [masteRbulk](https://github.com/master-info/masteRdocs/tree/main/R/masteRbulk)
     
-- [masteRcensusViz](https://github.com/master-info/masteRdocs/blob/main/masteRcensusViz/README.md)
+- [masteRcatasto](https://github.com/master-info/masteRdocs/tree/main/R/masteRcatasto)
     
-- [masteRclima](https://github.com/master-info/masteRdocs/blob/main/masteRclima/README.md)
+- [masteRcensus](https://github.com/master-info/masteRdocs/tree/main/R/masteRcensus)
     
-- [masteRcolture](https://github.com/master-info/masteRdocs/blob/main/masteRcolture/README.md)
+- [masteRcensusViz](https://github.com/master-info/masteRdocs/tree/main/R/masteRcensusViz)
     
-- [masteRconfini](https://github.com/master-info/masteRdocs/blob/main/masteRconfini/README.md)
+- [masteRclienti](https://github.com/master-info/masteRdocs/tree/main/R/masteRclienti)
     
-- [masteRdemanio](https://github.com/master-info/masteRdocs/blob/main/masteRdemanio/README.md)
+- [masteRclima](https://github.com/master-info/masteRdocs/tree/main/R/masteRclima)
     
-- [masteRdemografia](https://github.com/master-info/masteRdocs/blob/main/masteRdemografia/README.md)
+- [masteRcolture](https://github.com/master-info/masteRdocs/tree/main/R/masteRcolture)
     
-- [masteRdocker](https://github.com/master-info/masteRdocs/blob/main/masteRdocker/README.md)
+- [masteRcomuni](https://github.com/master-info/masteRdocs/tree/main/R/masteRcomuni)
     
-- [masteRdpc](https://github.com/master-info/masteRdocs/blob/main/masteRdpc/README.md)
+- [masteRconfini](https://github.com/master-info/masteRdocs/tree/main/R/masteRconfini)
     
-- [masteRedifici](https://github.com/master-info/masteRdocs/blob/main/masteRedifici/README.md)
+- [masteRdemanio](https://github.com/master-info/masteRdocs/tree/main/R/masteRdemanio)
     
-- [masteResercito](https://github.com/master-info/masteRdocs/blob/main/masteResercito/README.md)
+- [masteRdemografia](https://github.com/master-info/masteRdocs/tree/main/R/masteRdemografia)
     
-- [masteRfragilita](https://github.com/master-info/masteRdocs/blob/main/masteRfragilita/README.md)
+- [masteRdocker](https://github.com/master-info/masteRdocs/tree/main/R/masteRdocker)
     
-- [masteRfun](https://github.com/master-info/masteRdocs/blob/main/masteRfun/README.md)
+- [masteRdpc](https://github.com/master-info/masteRdocs/tree/main/R/masteRdpc)
     
-- [masteRgeo](https://github.com/master-info/masteRdocs/blob/main/masteRgeo/README.md)
+- [masteRedifici](https://github.com/master-info/masteRdocs/tree/main/R/masteRedifici)
     
-- [masteRgis](https://github.com/master-info/masteRdocs/blob/main/masteRgis/README.md)
+- [masteResercito](https://github.com/master-info/masteRdocs/tree/main/R/masteResercito)
     
-- [masteRgridpop](https://github.com/master-info/masteRdocs/blob/main/masteRgridpop/README.md)
+- [masteRfragilita](https://github.com/master-info/masteRdocs/tree/main/R/masteRfragilita)
     
-- [masteRimprese](https://github.com/master-info/masteRdocs/blob/main/masteRimprese/README.md)
+- [masteRfun](https://github.com/master-info/masteRdocs/tree/main/R/masteRfun)
     
-- [masteRirpef](https://github.com/master-info/masteRdocs/blob/main/masteRirpef/README.md)
+- [masteRgeo](https://github.com/master-info/masteRdocs/tree/main/R/masteRgeo)
     
-- [masteRmappe](https://github.com/master-info/masteRdocs/blob/main/masteRmappe/README.md)
+- [masteRgis](https://github.com/master-info/masteRdocs/tree/main/R/masteRgis)
     
-- [masteRmercato](https://github.com/master-info/masteRdocs/blob/main/masteRmercato/README.md)
+- [masteRgridpop](https://github.com/master-info/masteRdocs/tree/main/R/masteRgridpop)
     
-- [masteRmeteo](https://github.com/master-info/masteRdocs/blob/main/masteRmeteo/README.md)
+- [masteRimprese](https://github.com/master-info/masteRdocs/tree/main/R/masteRimprese)
     
-- [masteRmicrocensus](https://github.com/master-info/masteRdocs/blob/main/masteRmicrocensus/README.md)
+- [masteRindici](https://github.com/master-info/masteRdocs/tree/main/R/masteRindici)
     
-- [masteRmondo](https://github.com/master-info/masteRdocs/blob/main/masteRmondo/README.md)
+- [masteRirpef](https://github.com/master-info/masteRdocs/tree/main/R/masteRirpef)
     
-- [masteRomi](https://github.com/master-info/masteRdocs/blob/main/masteRomi/README.md)
+- [masteRmappe](https://github.com/master-info/masteRdocs/tree/main/R/masteRmappe)
     
-- [masteRope](https://github.com/master-info/masteRdocs/blob/main/masteRope/README.md)
+- [masteRmercato](https://github.com/master-info/masteRdocs/tree/main/R/masteRmercato)
     
-- [masteRpa](https://github.com/master-info/masteRdocs/blob/main/masteRpa/README.md)
+- [masteRmeteo](https://github.com/master-info/masteRdocs/tree/main/R/masteRmeteo)
     
-- [masteRpoi](https://github.com/master-info/masteRdocs/blob/main/masteRpa/README.md)
+- [masteRmicrocensus](https://github.com/master-info/masteRdocs/tree/main/R/masteRmicrocensus)
     
-- [masteRpotenziali](https://github.com/master-info/masteRdocs/blob/main/masteRpotenziali/README.md)
+- [masteRmondo](https://github.com/master-info/masteRdocs/tree/main/R/masteRmondo)
     
-- [masteRpres](https://github.com/master-info/masteRdocs/blob/main/masteRpres/README.md)
+- [masteRomi](https://github.com/master-info/masteRdocs/tree/main/R/masteRomi)
     
-- [masteRpubblico](https://github.com/master-info/masteRdocs/blob/main/masteRpubblico/README.md)
+- [masteRope](https://github.com/master-info/masteRdocs/tree/main/R/masteRope)
     
-- [masteRrischi](https://github.com/master-info/masteRdocs/blob/main/masteRrischi/README.md)
+- [masteRpa](https://github.com/master-info/masteRdocs/tree/main/R/masteRpa)
     
-- [masteRscenario](https://github.com/master-info/masteRdocs/blob/main/masteRscenario/README.md)
+- [masteRpoi](https://github.com/master-info/masteRdocs/tree/main/R/masteRpa)
     
-- [masteRshiny](https://github.com/master-info/masteRdocs/blob/main/masteRshiny/README.md)
+- [masteRpotenziali](https://github.com/master-info/masteRdocs/tree/main/R/masteRpotenziali)
     
-- [masteRsit](https://github.com/master-info/masteRdocs/blob/main/masteRsit/README.md)
+- [masteRpres](https://github.com/master-info/masteRdocs/tree/main/R/masteRpres)
     
-- [masteRsll](https://github.com/master-info/masteRdocs/blob/main/masteRsll/README.md)
+- [masteRpubblico](https://github.com/master-info/masteRdocs/tree/main/R/masteRpubblico)
     
-- [masteRsociale](https://github.com/master-info/masteRdocs/blob/main/masteRsociale/README.md)
+- [masteRrischi](https://github.com/master-info/masteRdocs/tree/main/R/masteRrischi)
     
-- [masteRsportelli](https://github.com/master-info/masteRdocs/blob/main/masteRsportelli/README.md)
+- [masteRscenario](https://github.com/master-info/masteRdocs/tree/main/R/masteRscenario)
     
-- [masteRstradario](https://github.com/master-info/masteRdocs/blob/main/masteRstradario/README.md)
+- [masteRshiny](https://github.com/master-info/masteRdocs/tree/main/R/masteRshiny)
     
-- [masteRsuolo](https://github.com/master-info/masteRdocs/blob/main/masteRsuolo/README.md)
+- [masteRsit](https://github.com/master-info/masteRdocs/tree/main/R/masteRsit)
     
-- [masteRtassonomia](https://github.com/master-info/masteRdocs/blob/main/masteRtassonomia/README.md)
+- [masteRsll](https://github.com/master-info/masteRdocs/tree/main/R/masteRsll)
     
-- [masteRtemplate](https://github.com/master-info/masteRdocs/blob/main/masteRtemplate/README.md)
+- [masteRsociale](https://github.com/master-info/masteRdocs/tree/main/R/masteRsociale)
     
-- [masteRturismo](https://github.com/master-info/masteRdocs/blob/main/masteRturismo/README.md)
+- [masteRsportelli](https://github.com/master-info/masteRdocs/tree/main/R/masteRsportelli)
     
-- [masteRveicoli](https://github.com/master-info/masteRdocs/blob/main/masteRveicoli/README.md)
+- [masteRstradario](https://github.com/master-info/masteRdocs/tree/main/R/masteRstradario)
+    
+- [masteRsuolo](https://github.com/master-info/masteRdocs/tree/main/R/masteRsuolo)
+    
+- [masteRtassonomia](https://github.com/master-info/masteRdocs/tree/main/R/masteRtassonomia)
+    
+- [masteRtemplate](https://github.com/master-info/masteRdocs/tree/main/R/masteRtemplate)
+    
+- [masteRturismo](https://github.com/master-info/masteRdocs/tree/main/R/masteRturismo)
+    
+- [masteRveicoli](https://github.com/master-info/masteRdocs/tree/main/R/masteRveicoli)
 
 ????
 
-- [masteRtips](https://github.com/master-info/masteRdocs/blob/main/masteRtips/README.md)
+- [masteRtips](https://github.com/master-info/masteRdocs/tree/main/R/masteRtips)
     
-- [masteRviz](https://github.com/master-info/masteRdocs/blob/main/masteRviz/README.md)
+- [masteRviz](https://github.com/master-info/masteRdocs/tree/main/R/masteRviz)
     
 ????????
 
-- [masteR*****](https://github.com/master-info/masteRdocs/blob/main/masteR*****/README.md)
+- [masteR*****](https://github.com/master-info/masteRdocs/tree/main/R/masteR*****)
     
 
 ### APIs
@@ -123,6 +133,11 @@ oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaST
 
 
 ### Applicazioni Web *Shiny*
+
+- []()
+- []()
+- []()
+- []()
 
 
 ### Librerie *Python*
