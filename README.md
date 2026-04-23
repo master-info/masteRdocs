@@ -129,8 +129,6 @@ oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaST
 
 - []()
 
-Per funzionalità di Visualizzazione dei Dati qui inclusi si consulti il pacchetto `masteRcensusViz`.
-
 
 
 @2026. Uso riservato per applicazioni ed analisi geodemografiche di [MaSTeR Information](https://www.master-i.com/), Viale Francesco Restelli, 3, 20124, Milano, Italy.
