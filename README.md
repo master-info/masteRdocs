@@ -116,3 +116,9 @@ Archivio pubblico della Documentazione per i Dati e le Funzionalità inclusi nei
 ### Librerie *Python*
 
 - []()
+
+Per funzionalità di Visualizzazione dei Dati qui inclusi si consulti il pacchetto `masteRcensusViz`.
+
+
+
+@2026. Uso riservato per applicazioni ed analisi geodemografiche di [MaSTeR Information](https://www.master-i.com/), Viale Francesco Restelli, 3, 20124, Milano, Italy.
