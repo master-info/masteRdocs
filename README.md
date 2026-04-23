@@ -126,31 +126,34 @@ oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaST
 
 ### APIs
 
-- [punti]()
-- [zone]()
-- [bacini]()
-- [sportelli]()
-- [clienti]()
-- [rischi]()
-- [schede]()
-- [score]()
+- [punti](https://github.com/master-info/masteRdocs/tree/main/apis/punti)
+- [zone](https://github.com/master-info/masteRdocs/tree/main/apis/zone)
+- [bacini](https://github.com/master-info/masteRdocs/tree/main/apis/bacini)
+- [operatori](https://github.com/master-info/masteRdocs/tree/main/apis/operatori)
+- [gridpop](https://github.com/master-info/masteRdocs/tree/main/apis/gridpop)
+- [costruzioni](https://github.com/master-info/masteRdocs/tree/main/apis/costruzioni)
+- [sportelli](https://github.com/master-info/masteRdocs/tree/main/apis/sportelli)
+- [clienti](https://github.com/master-info/masteRdocs/tree/main/apis/clienti)
+- [meteo](https://github.com/master-info/masteRdocs/tree/main/apis/meteo)
+- [rischi](https://github.com/master-info/masteRdocs/tree/main/apis/rischi)
+- [clima](https://github.com/master-info/masteRdocs/tree/main/apis/clima)
+- [catasto](https://github.com/master-info/masteRdocs/tree/main/apis/catasto)
+- [demanio](https://github.com/master-info/masteRdocs/tree/main/apis/demanio)
+- [schede](https://github.com/master-info/masteRdocs/tree/main/apis/schede)
+- [score](https://github.com/master-info/masteRdocs/tree/main/apis/score)
+- [suolo](https://github.com/master-info/masteRdocs/tree/main/apis/suolo)
+- [rexcel](https://github.com/master-info/masteRdocs/tree/main/apis/rexcel)
 
 
 ### Applicazioni Web *Shiny*
 
-<<<<<<< HEAD
-- []()
-- []()
-- []()
-=======
-- [ABICAB]()
-- [Bacini]()
-- [GeoRisk]()
-- [Graduatorie Comunali]()
-- [Promotori]()
-- [Scenario]()
-- [Stradario]()
->>>>>>> 867701d07e841bebcd2ec904bb7ce2da9532de3f
+- [ABICAB](https://github.com/master-info/masteRdocs/tree/main/webapps/abicab)
+- [Bacini](https://github.com/master-info/masteRdocs/tree/main/webapps/bacini)
+- [GeoRisk](https://github.com/master-info/masteRdocs/tree/main/webapps/georisk)
+- [Graduatorie Comunali](https://github.com/master-info/masteRdocs/tree/main/webapps/graduatorie)
+- [Promotori](https://github.com/master-info/masteRdocs/tree/main/webapps/promotori)
+- [Scenario](https://github.com/master-info/masteRdocs/tree/main/webapps/scenario)
+- [Stradario](https://github.com/master-info/masteRdocs/tree/main/webapps/stradario)
 - []()
 
 
