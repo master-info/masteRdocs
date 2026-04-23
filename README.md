@@ -1,6 +1,6 @@
 ## masteRdocs
 
-Archivio pubblico della Documentazione per i Dati e le Funzionalità inclusi nei pacchetti $R$ e librerie *python* proprietari di [MaSTeR Information](https://www.master-i.com/).
+Archivio pubblico della Documentazione per i Dati e le Funzionalità inclusi nei pacchetti $R$ e librerie *Python* proprietari di [MaSTeR Information](https://www.master-i.com/).
 
 ### Pacchetti $R$
 
@@ -112,3 +112,7 @@ Archivio pubblico della Documentazione per i Dati e le Funzionalità inclusi nei
 
 - [masteR*****](https://github.com/master-info/masteRdocs/blob/main/masteR*****/README.md)
     
+
+### Librerie *Python*
+
+- []()
