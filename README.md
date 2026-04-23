@@ -126,25 +126,37 @@ oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaST
 
 ### APIs
 
-- []()
-- []()
-- []()
-- []()
+- [punti]()
+- [zone]()
+- [bacini]()
+- [sportelli]()
+- [clienti]()
+- [rischi]()
+- [schede]()
+- [score]()
 
 
 ### Applicazioni Web *Shiny*
 
+<<<<<<< HEAD
 - []()
 - []()
 - []()
+=======
+- [ABICAB]()
+- [Bacini]()
+- [GeoRisk]()
+- [Graduatorie Comunali]()
+- [Promotori]()
+- [Scenario]()
+- [Stradario]()
+>>>>>>> 867701d07e841bebcd2ec904bb7ce2da9532de3f
 - []()
 
 
 ### Librerie *Python*
 
 - []()
-
-Per funzionalità di Visualizzazione dei Dati qui inclusi si consulti il pacchetto `masteRcensusViz`.
 
 
 
