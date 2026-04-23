@@ -116,13 +116,26 @@ oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaST
 
 ### APIs
 
-- []()
-- []()
-- []()
-- []()
+- [punti]()
+- [zone]()
+- [bacini]()
+- [sportelli]()
+- [clienti]()
+- [rischi]()
+- [schede]()
+- [score]()
 
 
 ### Applicazioni Web *Shiny*
+
+- [ABICAB]()
+- [Bacini]()
+- [GeoRisk]()
+- [Graduatorie Comunali]()
+- [Promotori]()
+- [Scenario]()
+- [Stradario]()
+- []()
 
 
 ### Librerie *Python*
