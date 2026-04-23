@@ -1,2 +1,11 @@
 ## masteRsuolo
 
+### Dati
+
+- `...` 
+
+
+### Funzionalità
+
+- `...` 
+
