@@ -1,6 +1,6 @@
 ## masteRdocs
 
-Archivio pubblico per Clienti ed Utenti esterni della Documentazione per i Dati e le Funzionalità inclusi nei pacchetti $R$ e librerie *python* proprietari di [MaSTeR Information](https://www.master-i.com/).
+Archivio pubblico della Documentazione per i Dati e le Funzionalità inclusi nei pacchetti $R$ e librerie *python* proprietari di [MaSTeR Information](https://www.master-i.com/).
 
 ### Pacchetti $R$
 
