@@ -141,8 +141,10 @@ oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaST
     
 
 <br/>
-
 :point_up_2:[Back to Index](#index)
+
+---
+
 <a name="apis"/>
   
 ### APIs
@@ -183,8 +185,10 @@ oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaST
 
 
 <br/>
-
 :point_up_2:[Back to Index](#index)
+
+---
+
 <a name="apps"/>
   
 ### Applicazioni Web *Shiny*
@@ -207,8 +211,10 @@ oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaST
 
 
 <br/>
-
 :point_up_2:[Back to Index](#index)
+
+---
+
 <a name="bulk"/>
 
 ### Servizi massivi (*bulk*)
@@ -239,8 +245,10 @@ oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaST
 
 
 <br/>
-
 :point_up_2:[Back to Index](#index)
+
+---
+
 <a name="python"/>
   
 ### Librerie *Python*
