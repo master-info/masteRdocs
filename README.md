@@ -5,7 +5,7 @@ oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaST
 
 <a name="index"/>
 
-* [Pacchetti $R$](#pacchetti)
+* [Pacchetti *R*](#pacchetti)
 * [APIs](#apis)
 * [Applicazioni Web *Shiny*](#apps)
 * [Servizi massivi (*bulk*)](#bulk)
