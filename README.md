@@ -1,7 +1,23 @@
+<a name="indice"/>
+
 ## masteRdocs
 
 Archivio pubblico della Documentazione per i Dati e le Funzionalità inclusi nei pacchetti $R$ e librerie *Python*, 
 oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaSTeR Information](https://www.master-i.com/).
+
+* [Pacchetti *R*](#pacchetti)
+* [APIs](#apis)
+* [Applicazioni Web *Shiny*](#apps)
+* [Servizi massivi (*bulk*)](#bulk)
+* [Librerie *Python*](#python)
+
+<span style="font-size: 10pt;">
+@2026. Uso riservato per applicazioni ed analisi geodemografiche di [MaSTeR Information](https://www.master-i.com/), Viale Francesco Restelli, 3, 20124, Milano, Italy.
+</span>
+
+---
+
+<a name="pacchetti"/>
 
 ### Pacchetti $R$
 
@@ -124,48 +140,120 @@ oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaST
 - [masteR*****](https://github.com/master-info/masteRdocs/tree/main/R/masteR*****)
     
 
+<br/>
+
+:point_up_2:[Indice](#indice)
+
+---
+
+<a name="apis"/>
+  
 ### APIs
 
 - [punti](https://github.com/master-info/masteRdocs/tree/main/apis/punti)
+  
 - [zone](https://github.com/master-info/masteRdocs/tree/main/apis/zone)
+  
 - [bacini](https://github.com/master-info/masteRdocs/tree/main/apis/bacini)
+  
 - [operatori](https://github.com/master-info/masteRdocs/tree/main/apis/operatori)
+  
 - [gridpop](https://github.com/master-info/masteRdocs/tree/main/apis/gridpop)
+  
 - [costruzioni](https://github.com/master-info/masteRdocs/tree/main/apis/costruzioni)
+  
 - [sportelli](https://github.com/master-info/masteRdocs/tree/main/apis/sportelli)
+  
 - [clienti](https://github.com/master-info/masteRdocs/tree/main/apis/clienti)
+  
 - [meteo](https://github.com/master-info/masteRdocs/tree/main/apis/meteo)
+  
 - [rischi](https://github.com/master-info/masteRdocs/tree/main/apis/rischi)
+  
 - [clima](https://github.com/master-info/masteRdocs/tree/main/apis/clima)
+  
 - [catasto](https://github.com/master-info/masteRdocs/tree/main/apis/catasto)
+  
 - [demanio](https://github.com/master-info/masteRdocs/tree/main/apis/demanio)
+  
 - [schede](https://github.com/master-info/masteRdocs/tree/main/apis/schede)
+  
 - [score](https://github.com/master-info/masteRdocs/tree/main/apis/score)
+  
 - [suolo](https://github.com/master-info/masteRdocs/tree/main/apis/suolo)
+  
 - [rexcel](https://github.com/master-info/masteRdocs/tree/main/apis/rexcel)
 
 
+<br/>
+
+:point_up_2:[Indice](#indice)
+
+---
+
+<a name="apps"/>
+  
 ### Applicazioni Web *Shiny*
 
 - [ABICAB](https://github.com/master-info/masteRdocs/tree/main/webapps/abicab)
+  
 - [Bacini](https://github.com/master-info/masteRdocs/tree/main/webapps/bacini)
+  
 - [GeoRisk](https://github.com/master-info/masteRdocs/tree/main/webapps/georisk)
+  
 - [Graduatorie Comunali](https://github.com/master-info/masteRdocs/tree/main/webapps/graduatorie)
+  
 - [Promotori](https://github.com/master-info/masteRdocs/tree/main/webapps/promotori)
+  
 - [Scenario](https://github.com/master-info/masteRdocs/tree/main/webapps/scenario)
+  
 - [Stradario](https://github.com/master-info/masteRdocs/tree/main/webapps/stradario)
 
 
-### Servizi Massivi (*bulk*)
+<br/>
 
+:point_up_2:[Indice](#indice)
+
+---
+
+<a name="bulk"/>
+
+### Servizi massivi (*bulk*)
+
+- [bacini](https://github.com/master-info/masteRdocs/tree/main/bulk/bacini)
+  
+- [codimicro](https://github.com/master-info/masteRdocs/tree/main/bulk/codimicro)
+  
+- [codisez](https://github.com/master-info/masteRdocs/tree/main/bulk/codisez)
+  
 - [distempi](https://github.com/master-info/masteRdocs/tree/main/bulk/distempi)
+  
+- [edifici](https://github.com/master-info/masteRdocs/tree/main/bulk/edifici)
+  
+- [geocod](https://github.com/master-info/masteRdocs/tree/main/bulk/geocod)
+  
+- [geoinv](https://github.com/master-info/masteRdocs/tree/main/bulk/geoinv)
+  
+- [kml2shp](https://github.com/master-info/masteRdocs/tree/main/bulk/kml2shp)
+  
+- [percorsi](https://github.com/master-info/masteRdocs/tree/main/bulk/percorsi)
+  
+- [punti](https://github.com/master-info/masteRdocs/tree/main/bulk/punti)
+  
+- [rischi](https://github.com/master-info/masteRdocs/tree/main/bulk/rischi)
+
+- [schede](https://github.com/master-info/masteRdocs/tree/main/bulk/schede)
 
 
+<br/>
+
+:point_up_2:[Indice](#indice)
+
+---
+
+<a name="python"/>
+  
 ### Librerie *Python*
 
-- []()
+- [TBD]()
 
-
-<br/><hr/><br/>
-
-`@2026`. Uso riservato per applicazioni ed analisi geodemografiche di [MaSTeR Information](https://www.master-i.com/), Viale Francesco Restelli, 3, 20124, Milano, Italy.
