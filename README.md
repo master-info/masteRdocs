@@ -1,6 +1,6 @@
-## masteRdocs
+<a name="indice"/>
 
-<a name="index"/>
+## masteRdocs
 
 Archivio pubblico della Documentazione per i Dati e le Funzionalità inclusi nei pacchetti $R$ e librerie *Python*, 
 oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaSTeR Information](https://www.master-i.com/).
@@ -142,7 +142,7 @@ oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaST
 
 <br/>
 
-:point_up_2:[Back to Index](#index)
+:point_up_2:[Indice](#indice)
 
 ---
 
@@ -187,7 +187,7 @@ oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaST
 
 <br/>
 
-:point_up_2:[Back to Index](#index)
+:point_up_2:[Indice](#indice)
 
 ---
 
@@ -214,7 +214,7 @@ oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaST
 
 <br/>
 
-:point_up_2:[Back to Index](#index)
+:point_up_2:[Indice](#indice)
 
 ---
 
@@ -249,7 +249,7 @@ oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaST
 
 <br/>
 
-:point_up_2:[Back to Index](#index)
+:point_up_2:[Indice](#indice)
 
 ---
 
@@ -262,7 +262,7 @@ oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaST
 
 <br/>
 
-:point_up_2:[Back to Index](#index)
+:point_up_2:[Indice](#indice)
 
 ---
 
