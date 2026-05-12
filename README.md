@@ -11,7 +11,7 @@ oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaST
 * [Servizi massivi (*bulk*)](#bulk)
 * [Librerie *Python*](#python)
 
-<span style="font-size: 0.85rem;">
+<span style="font-size: 10pt;">
 @2026. Uso riservato per applicazioni ed analisi geodemografiche di [MaSTeR Information](https://www.master-i.com/), Viale Francesco Restelli, 3, 20124, Milano, Italy.
 </span>
 
