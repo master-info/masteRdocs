@@ -141,6 +141,7 @@ oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaST
     
 
 <br/>
+
 :point_up_2:[Back to Index](#index)
 
 ---
