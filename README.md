@@ -3,15 +3,22 @@
 Archivio pubblico della Documentazione per i Dati e le Funzionalità inclusi nei pacchetti $R$ e librerie *Python*, 
 oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaSTeR Information](https://www.master-i.com/).
 
+<a name="index"/>
+
 * [Pacchetti $R$](#pacchetti)
 * [APIs](#apis)
 * [Applicazioni Web *Shiny*](#apps)
 * [Servizi massivi (*bulk*)](#bulk)
 * [Librerie *Python*](#python)
 
+<span style="font-size: 1.125rem;">
 @2026. Uso riservato per applicazioni ed analisi geodemografiche di [MaSTeR Information](https://www.master-i.com/), Viale Francesco Restelli, 3, 20124, Milano, Italy.
+</span>
 
-  
+---
+
+<a name="pacchetti"/>
+
 ### Pacchetti $R$
 
 - [masteRagricolo](https://github.com/master-info/masteRdocs/tree/main/R/masteRagricolo)
@@ -133,7 +140,10 @@ oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaST
 - [masteR*****](https://github.com/master-info/masteRdocs/tree/main/R/masteR*****)
     
 
-  <a name="apis"/>
+<br/>
+
+:point_up_2:[Back to Index](#index)
+<a name="apis"/>
   
 ### APIs
 
@@ -172,7 +182,10 @@ oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaST
 - [rexcel](https://github.com/master-info/masteRdocs/tree/main/apis/rexcel)
 
 
-  <a name="apps"/>
+<br/>
+
+:point_up_2:[Back to Index](#index)
+<a name="apps"/>
   
 ### Applicazioni Web *Shiny*
 
@@ -193,7 +206,10 @@ oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaST
 - []()
 
 
-  <a name="bulk"/>
+<br/>
+
+:point_up_2:[Back to Index](#index)
+<a name="bulk"/>
 
 ### Servizi massivi (*bulk*)
 
@@ -222,7 +238,10 @@ oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaST
 - [schede](https://github.com/master-info/masteRdocs/tree/main/bulk/schede)
 
 
-  <a name="python"/>
+<br/>
+
+:point_up_2:[Back to Index](#index)
+<a name="python"/>
   
 ### Librerie *Python*
 
