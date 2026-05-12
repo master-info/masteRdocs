@@ -154,7 +154,11 @@ oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaST
 - [Promotori](https://github.com/master-info/masteRdocs/tree/main/webapps/promotori)
 - [Scenario](https://github.com/master-info/masteRdocs/tree/main/webapps/scenario)
 - [Stradario](https://github.com/master-info/masteRdocs/tree/main/webapps/stradario)
-- []()
+
+
+### Servizi Massivi (*bulk*)
+
+- [distempi](https://github.com/master-info/masteRdocs/tree/main/bulk/distempi)
 
 
 ### Librerie *Python*
@@ -162,5 +166,6 @@ oltre agli elenchi delle principali API ed Applicazioni Shiny, sviluppo di [MaST
 - []()
 
 
+<br/><hr/><br/>
 
-@2026. Uso riservato per applicazioni ed analisi geodemografiche di [MaSTeR Information](https://www.master-i.com/), Viale Francesco Restelli, 3, 20124, Milano, Italy.
+`@2026`. Uso riservato per applicazioni ed analisi geodemografiche di [MaSTeR Information](https://www.master-i.com/), Viale Francesco Restelli, 3, 20124, Milano, Italy.
